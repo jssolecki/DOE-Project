@@ -1,1 +1,2 @@
-# This project uses **Design of Experiments** as a preprocessing tool for Machine Leaning.
+# Demonstration Report: Design of Experiments (DOE) Used as a Preprocessing Tool for Machine Leaning.
+One of the foundation tools devised for  statistical experimental design and general data science was design of experiments (DOE). By means of 2 examples, this project explains how DOE can be used as a preprocessor.  These examples are small in terms of their I/O. The focus here is to demonstrate the usefulness of DOE for modest problems.
